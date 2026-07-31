@@ -1,2 +1,2 @@
-# simulador-mario-kart-node.js
-This repository is for my projects in node javascript.
+# simulador-mario-kart-node.js #
+Esse repositório é um projeto em node javascript.
